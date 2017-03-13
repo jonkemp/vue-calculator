@@ -1,4 +1,4 @@
-# recalculator
+# vue-calculator
 
 > This is an example app built with [Vue](https://vuejs.org/).
 
